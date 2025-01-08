@@ -3,10 +3,8 @@
 ## Program Description
 This program is a console-based file explorer written in Java. It allows users to manage files and folders dynamically using various design patterns.
 
-## Team Collaboration
-This project was completed by Tawananyasha Murambinda and Ivan Iliev. Contributions are as follows:
-- Ivan Iliev: Composite, Singleton, Command Patterns.
-- Tawananyasha Murambinda: Factory, Decorator, Observer Patterns.
+## Self Completed
+This project was completed by Tawananyasha Murambinda.
 
 ## Design Patterns
 
