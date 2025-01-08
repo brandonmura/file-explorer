@@ -31,3 +31,6 @@ This project was completed by Tawananyasha Murambinda.
 - `list`
 - `delete example.txt`
 - `exit`
+
+## Where to find the github repo
+https://github.com/brandonmura/file-explorer
